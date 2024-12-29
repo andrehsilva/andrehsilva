@@ -31,8 +31,7 @@
 
 
 > - 🌱 Atualmente, estou aprendendo a linguagem Python e me dedicando à análise de dados e à criação de dashboards para visualização e interpretação de informações de forma eficiente.
-> - 👯 Estou procurando colaborar em projetos que envolvam análise de dados, desenvolvimento de dashboards ou automação de processos.
-> - 🤔 Estou procurando ajuda com boas práticas de programação em Python e na integração de dashboards com diferentes fontes de dados.
+> - ⌨️ Estou procurando colaborar em projetos que envolvam análise de dados, desenvolvimento de dashboards ou automação de processos, aproveitando essa oportunidade para aprimorar minhas habilidades em boas práticas de programação em Python e na integração de dashboards com diferentes fontes de dados.
 > - 💬 Pergunte-me sobre análise de dados, visualização de informações ou como começar com Python.
 > - 📫 Como entrar em contato comigo: andrehrsilva@gmail.com
 > - 😄 Pronomes: ele/dele
