@@ -1,8 +1,7 @@
 ## Olá, eu sou o André Rodrigues.
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Andre-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img align="center" alt="Andre-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+    
     <img align="center" alt="Andre-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
     <img align="center" alt="Andre-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"> 
     <img align="center" alt="Andre-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"> 
@@ -11,8 +10,9 @@
     <img align="center" alt="Andre-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> 
     <img align="center" alt="Andre-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"> 
     <img align="center" alt="Andre-Streamlit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"> 
-    <img align="center" alt="Andre-Code" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/753/753345.png" title="Pydantic (Representado)"> 
-    <img align="center" alt="Andre-EngData" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5953/5953765.png" title="Engenheiro de Dados"> </div>
+    <img align="center" alt="Andre-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+    <img align="center" alt="Andre-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+
  
           
 
