@@ -27,9 +27,10 @@
 </div>
 
 
-> - 🌱 Atualmente, estou aprendendo a linguagem Python e me dedicando à análise de dados e à criação de dashboards para visualização e interpretação de informações de forma eficiente.
-> - ⌨️ Estou procurando colaborar em projetos que envolvam análise de dados, desenvolvimento de dashboards ou automação de processos, aproveitando essa oportunidade para aprimorar minhas habilidades em boas práticas de programação em Python e na integração de dashboards com diferentes fontes de dados.
-> - 💬 Pergunte-me sobre análise de dados, visualização de informações ou como começar com Python.
-> - 📫 Como entrar em contato comigo: andrehrsilva@gmail.com
-> - 😄 Pronomes: ele/dele
-> - ⚡ Curiosidade: Sou apaixonado por explorar formas criativas de transformar dados em histórias visuais.
+🌱 Sou engenheiro e analista de dados com foco em transformar informações em insights valiosos por meio de dashboards interativos e análises precisas.
+🐍 Tenho domínio da linguagem Python, utilizando bibliotecas como Pandas para tratamento e análise de dados, SQL para consultas e integrações com diferentes bancos de dados, e Streamlit para criação de aplicações interativas e visualização de dados.
+⌨️ Estou aberto a colaborar em iniciativas que envolvam análise de dados, desenvolvimento de dashboards e engenharia de dados, sempre buscando aplicar boas práticas de programação e design orientado à clareza e eficiência.
+💬 Sinta-se à vontade para me perguntar sobre análise de dados, visualização de informações ou sobre como começar com Python.
+📫 Como entrar em contato comigo: andrehrsilva@gmail.com
+😄 Pronomes: ele/dele
+⚡ Curiosidade: Gosto bastante de explorar formas criativas de transformar dados em representações visuais claras e informativas.
