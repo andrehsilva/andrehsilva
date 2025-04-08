@@ -27,10 +27,10 @@
 </div>
 
 
-🌱 Sou engenheiro e analista de dados com foco em transformar informações em insights valiosos por meio de dashboards interativos e análises precisas.
-🐍 Tenho domínio da linguagem Python, utilizando bibliotecas como Pandas para tratamento e análise de dados, SQL para consultas e integrações com diferentes bancos de dados, e Streamlit para criação de aplicações interativas e visualização de dados.
-⌨️ Estou aberto a colaborar em iniciativas que envolvam análise de dados, desenvolvimento de dashboards e engenharia de dados, sempre buscando aplicar boas práticas de programação e design orientado à clareza e eficiência.
-💬 Sinta-se à vontade para me perguntar sobre análise de dados, visualização de informações ou sobre como começar com Python.
-📫 Como entrar em contato comigo: andrehrsilva@gmail.com
-😄 Pronomes: ele/dele
-⚡ Curiosidade: Gosto bastante de explorar formas criativas de transformar dados em representações visuais claras e informativas.
+> 🌱 Sou engenheiro e analista de dados com foco em transformar informações em insights valiosos por meio de dashboards interativos e análises precisas.
+> 🐍 Tenho domínio da linguagem Python, utilizando bibliotecas como Pandas para tratamento e análise de dados, SQL para consultas e integrações com diferentes bancos de dados, e Streamlit para criação de aplicações interativas e visualização de dados.
+> ⌨️ Estou aberto a colaborar em iniciativas que envolvam análise de dados, desenvolvimento de dashboards e engenharia de dados, sempre buscando aplicar boas práticas de programação e design orientado à clareza e eficiência.
+> 💬 Sinta-se à vontade para me perguntar sobre análise de dados, visualização de informações ou sobre como começar com Python.
+> 📫 Como entrar em contato comigo: andrehrsilva@gmail.com
+> 😄 Pronomes: ele/dele
+> ⚡ Curiosidade: Gosto bastante de explorar formas criativas de transformar dados em representações visuais claras e informativas.
