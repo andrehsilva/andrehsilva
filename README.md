@@ -27,7 +27,7 @@
 </div>
 
 
->- 🌱 Atuação em produtos digitais e análise de dados, com foco em automação, otimização de processos e melhoria da experiência do usuário. Experiência em projetos de dados, implantação de SSO, configuração de sistemas e estratégias baseadas em KPIs.
+>- 🌱  Atuação em produtos digitais, automação de processos e projetos de dados, com foco na eficiência, qualidade e experiência do usuário. Experiência em implantação de SSO, configuração de sistemas e uso de KPIs para direcionamento estratégico.
 >- 🐍 Tenho domínio da linguagem Python, utilizando bibliotecas como Pandas para tratamento e análise de dados, SQL para consultas e integrações com diferentes bancos de dados, e Streamlit para criação de aplicações interativas e visualização de dados.
 >- ⌨️ Estou aberto a colaborar em iniciativas que envolvam análise de dados, desenvolvimento de dashboards e engenharia de dados, sempre buscando aplicar boas práticas de programação e design orientado à clareza e eficiência.
 >- 💬 Sinta-se à vontade para me perguntar sobre análise de dados, visualização de informações ou sobre como começar com Python.
