@@ -33,4 +33,4 @@
 >- 💬 Sinta-se à vontade para me perguntar sobre análise de dados, visualização de informações ou sobre como começar com Python.
 >- 📫 Como entrar em contato comigo: andrehrsilva@gmail.com
 >- 😄 Pronomes: ele/dele
->- 🤘 Curiosidade: Rock, boa gastronomia e tempo de qualidade com a família.
+>- 🤘 Não pode faltar: Rock, boa gastronomia e tempo de qualidade com a família.
