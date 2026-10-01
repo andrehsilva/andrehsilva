@@ -1,40 +1,64 @@
-## Olá, eu sou o André Rodrigues. 🤖💡
+# Olá, eu sou o André Rodrigues 👋 🤖⚡
 
-### Foco Profissional:
+Analista de **Inteligência Artificial & Integrações** | Desenvolvedor Backend & Especialista em Automação de Processos
 
-Especialista em **Inteligência Artificial (IA)** e **Automação de Processos**, transformando dados em soluções eficientes e inteligentes.
+Atuo na convergência entre engenharia de software, automação inteligente e governança de dados. Meu foco é desenhar arquiteturas que conectam sistemas corporativos legados a copilots de IA, pipelines automatizados com n8n, microsserviços modernos em FastAPI e agentes inteligentes orientados a RAG, sempre priorizando eficiência operacional e impacto real no negócio.
 
-### Tecnologias que utilizo:
+---
+
+### 🚀 O que venho construindo & explorando:
+
+- **Automação & Integração de Sistemas:** Orquestração de rotinas complexas e webhooks com **n8n**, integração entre CRMs (Chatwoot, Octadesk) e sistemas ERP/Fiscais.
+- **Inteligência Artificial Aplicada:** Desenvolvimento de assistentes internos, copilots de conformidade fiscal e RAG utilizando **Gemini API**, **OpenAI**, **Claude**, e modelos locais com **Ollama (DeepSeek-R1, Qwen)**.
+- **Desenvolvimento Backend & Microsserviços:** Criação de APIs robustas e performáticas com **FastAPI** e **Python**, interfaces reativas com **Streamlit/React (Vite)** e sistemas multi-tenant.
+- **Infraestrutura & DevOps:** Ambientes conteinerizados com **Docker & Portainer**, servidores Linux (**Fedora/Ubuntu VPS**), proxies reversos, Cloudflare Tunnels e SSO com **Keycloak**.
+
+---
+
+### 🛠️ Stack Tecnológica & Ferramentas:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Andre-Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Andre-Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Andre-Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Andre-PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="Andre-SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="Andre-MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Andre-Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Andre-Streamlit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Andre-HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Andre-CSS" width="40" height="40"/>
+  <!-- Backend & Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+
+  <!-- DevOps & Infra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="Fedora Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/andrehrsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatoandrehrsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andrehrsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
+### 📌 Destaques & Interesses:
 
->- ✨ Atuação em **Inteligência Artificial**, **Automação de Processos (incluindo n8n)** e projetos de dados, com foco na eficiência, qualidade e experiência do usuário. Experiência em implantação de SSO, configuração de sistemas e uso de KPIs para direcionamento estratégico.
->- 🐍 Tenho domínio da linguagem Python, utilizando bibliotecas como Pandas para tratamento e análise de dados, SQL para consultas e integrações com diferentes bancos de dados, e Streamlit para criação de aplicações interativas e visualização de dados.
->- ⌨️ Estou aberto a colaborar em iniciativas que envolvam análise de dados, desenvolvimento de dashboards, engenharia de dados e soluções de **Automação/IA**, sempre buscando aplicar boas práticas de programação e design orientado à clareza e eficiência.
->- 💬 Sinta-se à vontade para me perguntar sobre análise de dados, **automações com n8n**, visualização de informações ou sobre como começar com Python.
->- 📫 Como entrar em contato comigo: andrehrsilva@gmail.com
->- 😄 Pronomes: ele/dele
->- 🤘 Não pode faltar: Rock, boa gastronomia e tempo de qualidade com a família.
+- 🧠 **Arquitetura de RAG & Agentes:** Estruturação de bases vetoriais, engenharia de contexto e implantação de copilots departamentais para auditoria, tributos e triagem.
+- ⚙️ **Processos & Governança:** Priorização orientada a valor (RICE), mapeamento de discovery e esteiras de automação resilientes a exceções operacionais.
+- 💬 **Bate-papo técnico:** Fique à vontade para me procurar sobre automações no n8n, arquitetura de APIs em FastAPI, uso de LLMs no mundo corporativo e infraestrutura local/VPS.
+- 🤘 **Fora do terminal:** Rock & metal sinfônico, calistenia, pescaria esportiva e tempo de qualidade com a família.
+
+---
+
+### 📬 Conecte-se comigo:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrehrsilva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:andrehrsilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/andrehrsilva" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
